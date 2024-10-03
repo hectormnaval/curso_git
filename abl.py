@@ -9,3 +9,4 @@ while True:
     print(opt[affirmation])
     sleep(1)
     print('hola')
+    print('adios')
