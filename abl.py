@@ -8,3 +8,4 @@ while True:
     affirmation = randint(0,2)
     print(opt[affirmation])
     sleep(2)
+    print('de nuevo')
