@@ -7,4 +7,4 @@ sleep(3)
 while True:
     affirmation = randint(0,2)
     print(opt[affirmation])
-    sleep(3)
+    sleep(2)
